@@ -10,7 +10,7 @@
 
     <properties>
         <redis.version>3.3.0</redis.version>
-        <fastjson.version>1.2.68</fastjson.version>
+        <fastjson.version>1.2.83</fastjson.version>
         <jrebloom.version>1.2.0</jrebloom.version>
     </properties>
 
